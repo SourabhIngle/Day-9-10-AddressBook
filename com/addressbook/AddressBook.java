@@ -36,7 +36,5 @@ public class AddressBook {
         person.setEmail(sc.nextLine());
 
         people.add(person);
-
     }
-
 }
